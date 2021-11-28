@@ -1,0 +1,36 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAACImYiYmZmZiJiZiYmJiJiJmYiZiImIiJmIiImIiYiZiYiIiYiJmYiJiJiZiJmIiImJiZiImYiIiZiImJiJiJiYiIiYiYmImIiJmZmImYiYiJmJiIiYiYmIiZiZiYiYiYiZiYiJiJiZiYiJiImImJiYiJiImIiJmIiIiYiYmYiYiQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Water Tile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAACZmZmZmZmZmZkZmRmZmZmZmZGZkZmZkZkZmZmRmRGZmZmZGZkZmZmRmRmRmZGZGZmZkZmZkZkZmRmZmRmZmZGZGZmZkZkZmZmZmRmZmZGZmZmZGZmZkZmRmZmRmRmZGZmZGZmZkZkZmZmRmRGZmZGZmZmZmZkZmZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Ice Tile"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAD/////////////////ERHx/////x+REfH/////EZkR8f///58RGRHx//8fkREREfH/mRGRERER8ZkZERERERHhEREREREREe7/EREREZER8f//EZkRkRHx////nxERGfH/////HxGZ8f//////EZHx//////8fkfH//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Tree Tile"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAD//////////x8REZGZZmb2HxGRmZlpZvYfEZmZmWlm9h8REZmZmWb2HxGZmZmZafYfEZGZmZlp9h8REZGZmWb2HxERmZmZZvYfEZGZmZlp9h8REZGZmZn2HxEREZmZmfYfERERmZlp9h8REZmZmWn2HxEREZGZZvb//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Ground Tile"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
